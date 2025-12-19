@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://fangxinjun.github.io/PrivacyPolicyFlie/Fastcash/FastCash.ipa</string>
+					<string>https://fangxinjun.github.io/PrivacyPolicyFlie/Fastcash/JCat.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fxj.FastCash</string>
+				<string>cn.wl.jumiao</string>
 				<key>bundle-version</key>
-				<string>1.0.4</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>FastCash.ipa</string>
+				<string>聚喵APP</string>
 			</dict>
 		</dict>
 	</array>
